@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Weather-Reporting/static/css/main.74fd4f15.css",
+    "main.js": "/Weather-Reporting/static/js/main.b96b92f3.js",
+    "static/media/cold.jpg": "/Weather-Reporting/static/media/cold.88964cccc93639e22800.jpg",
+    "static/media/hot.jpg": "/Weather-Reporting/static/media/hot.fbba93ca2241780ec8ba.jpg",
+    "index.html": "/Weather-Reporting/index.html",
+    "main.74fd4f15.css.map": "/Weather-Reporting/static/css/main.74fd4f15.css.map",
+    "main.b96b92f3.js.map": "/Weather-Reporting/static/js/main.b96b92f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74fd4f15.css",
+    "static/js/main.b96b92f3.js"
+  ]
+}
